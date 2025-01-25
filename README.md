@@ -1,3 +1,3 @@
 # merito-2025
-Hello world!
 Plik zedytowany na remote
+Plik zmodyfikowany na branch-hubert
